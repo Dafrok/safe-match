@@ -1,6 +1,6 @@
 {
   "name": "safe-match",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Prevent match API from the result of null",
   "main": "index.js",
   "scripts": {
