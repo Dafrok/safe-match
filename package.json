@@ -1,0 +1,24 @@
+{
+  "name": "safe-match",
+  "version": "0.0.1",
+  "description": "Prevent match API from the result of null",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dafrok/safe-match.git"
+  },
+  "keywords": [
+    "match",
+    "safe",
+    "null"
+  ],
+  "author": "Dafrok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dafrok/safe-match/issues"
+  },
+  "homepage": "https://github.com/Dafrok/safe-match#readme"
+}
